@@ -1,7 +1,7 @@
 # JHLSyn
 HLSyn speech synthesizer developed in java.
 
-#Autor:
+# Autor:
 
 José Ribeiro - site: https://sites.google.com/view/jose-sousa-ribeiro
 
@@ -20,7 +20,7 @@ Obs3: O arquivo JHLSyn.zip é o projeto java da IDE eclipse utilizado no desenvo
 
 Esta ferramenta foi desenvolvida durante a pesquisa do artigo: Utterance copy for Klatt's speech synthesizer using genetic algorithm.
 
-# Cite:
+# Cite nosso artigo:
 
 ```
 @inproceedings{sousa2014utterance,
