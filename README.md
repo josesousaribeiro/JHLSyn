@@ -22,6 +22,7 @@ Esta ferramenta foi desenvolvida durante a pesquisa do artigo: Utterance copy fo
 
 # Cite:
 
+```
 @inproceedings{sousa2014utterance,
   title={Utterance copy for Klatt's speech synthesizer using genetic algorithm},
   author={Sousa, Jos{\'e} and Ara{\'u}jo, Fab{\'\i}ola and Klautau, Aldebaro},
@@ -30,4 +31,5 @@ Esta ferramenta foi desenvolvida durante a pesquisa do artigo: Utterance copy fo
   year={2014},
   organization={IEEE}
 }
+
 
