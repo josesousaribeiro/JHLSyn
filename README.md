@@ -5,6 +5,7 @@ HLSyn speech synthesizer developed in java.
 
 José Ribeiro - site: https://sites.google.com/view/jose-sousa-ribeiro
 
+# Descrição:
 
 Este repositório ainda está em construção. Por favor aguarde novos updates!
 
