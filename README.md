@@ -9,9 +9,11 @@ José Ribeiro - site: https://sites.google.com/view/jose-sousa-ribeiro
 
 Este repositório ainda está em construção. Por favor aguarde novos updates!
 
-Exemplo de execução do JHLSyn.jar
+Exemplo de execução do JHLSyn.jar no terminal:
 
+```
 java -jar JHLsyn.jar ./hldata2.hlsyn
+```
 
 Obs1: O arquivo 'hldata2.hlsyn' contém todos os parâmetros do HLSyn.
 
