@@ -77,7 +77,7 @@ Obs3: The JHLSyn.zip file is the eclipse IDE java project used in development.
 
 This tool was developed during research for the article: Utterance copy for Klatt's speech synthesizer using genetic algorithm.
 
-# Cite nosso artigo:
+# Quote the article that launches this tool:
 
 ```
 @inproceedings{sousa2014utterance,
