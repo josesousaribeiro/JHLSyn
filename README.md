@@ -19,7 +19,7 @@ José Ribeiro - site: https://sites.google.com/view/jose-sousa-ribeiro
 
 Example of HLSyn file necessary to run the synthesize:
 
-
+```
 AG AL AB AN UE F0 F1 F2 F3 F4 PS DC AP
 
 100 1000 1000 0 0 1105 489 1650 2502 3500 200 0 0
@@ -57,8 +57,8 @@ AG AL AB AN UE F0 F1 F2 F3 F4 PS DC AP
 2158 1000 1000 0 0 1075 494 1508 1808 3500 0 0 0
 
 2158 1000 1000 0 0 1072 495 1509 1809 3500 0 0 0
-
 ```
+
 
 To run JHLSyn just run the command below in the directory where the .jar is located.
 
