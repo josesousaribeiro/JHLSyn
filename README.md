@@ -62,23 +62,20 @@ AG AL AB AN UE F0 F1 F2 F3 F4 PS DC AP
 
 To run JHLSyn just run the command below in the directory where the .jar is located.
 
-```java
+```
 java -jar JHLsyn.jar ./hldata2.hlsyn
 ```
 
-<audio controls>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+The output of this execution is a .raw file (sound synthesized).
 
-Obs1: O arquivo 'hldata2.hlsyn' contém todos os parâmetros do HLSyn.
 
-Obs2: A saída é um arquivo .raw referente ao áudio sintetizado.
+Obs1: The 'hldata2.hlsyn' file contains all the HLSyn parameters.
 
-Obs3: O arquivo JHLSyn.zip é o projeto java da IDE eclipse utilizado no desenvolvimento.
+Obs2: The output is a .raw file referring to the synthesized audio.
 
-Esta ferramenta foi desenvolvida durante a pesquisa do artigo: Utterance copy for Klatt's speech synthesizer using genetic algorithm.
+Obs3: The JHLSyn.zip file is the eclipse IDE java project used in development.
+
+This tool was developed during research for the article: Utterance copy for Klatt's speech synthesizer using genetic algorithm.
 
 # Cite nosso artigo:
 
