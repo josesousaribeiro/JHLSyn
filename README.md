@@ -62,7 +62,7 @@ AG AL AB AN UE F0 F1 F2 F3 F4 PS DC AP
 
 To run JHLSyn just run the command below in the directory where the .jar is located.
 
-```
+```Nushell
 java -jar JHLsyn.jar ./hldata2.hlsyn
 ```
 
@@ -79,7 +79,7 @@ This tool was developed during research for the article: Utterance copy for Klat
 
 # Quote the article that launches this tool:
 
-```
+```TeX
 @inproceedings{sousa2014utterance,
   title={Utterance copy for Klatt's speech synthesizer using genetic algorithm},
   author={Sousa, Jos{\'e} and Ara{\'u}jo, Fab{\'\i}ola and Klautau, Aldebaro},
